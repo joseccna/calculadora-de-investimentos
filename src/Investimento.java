@@ -1,4 +1,4 @@
-public interface Investimento {
+interface Investimento {
     double calcularValorFinal();
 
 }
